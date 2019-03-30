@@ -15,6 +15,7 @@
 - Problem Set 1
   - [Problem Set](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/assignments/MIT6_006F11_ps1.pdf)
   - [Solutions](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/assignments/MIT6_006F11_ps1_sol.pdf)
+  - [My Attempt](./Solutions_1.md)
 
 ## Unit 2: Sorting and Trees
 
